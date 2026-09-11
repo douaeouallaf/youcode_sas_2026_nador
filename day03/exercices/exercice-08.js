@@ -5,7 +5,8 @@
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Reprenez l'exercice du FizzBuzz du *Day 02* et encapsulez-le dans une fonction jouerFizzBuzz(max). En appelant jouerFizzBuzz(15), ça devrait jouer jusqu'à 15.
+ * Reprenez l'exercice du FizzBuzz du *Day 02* et encapsulez-le dans une fonction jouerFizzBuzz(max).
+ *  En appelant jouerFizzBuzz(15), ça devrait jouer jusqu'à 15.
  *
  * 📖 Consigne détaillée : ../03-exercices.md#exercice-08
  * ▶️ Commande : node day03/exercices/exercice-08.js

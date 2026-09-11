@@ -17,9 +17,9 @@
 
 ### Question 01
 
-> Quelle est la différence entre un *paramètre* et un *argument* d'une fonction ?
+>
 
-- [ ] J'ai recherché et compris la notion.
+- [ ] J'ai recherché et com Quelle est la différence entre un *paramètre* et un *argument* d'une fonction ?pris la notion.
 
 **Ma réponse :**
 
@@ -35,7 +35,7 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> return=
 
 ---
 
@@ -47,7 +47,7 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> 
 
 ---
 
