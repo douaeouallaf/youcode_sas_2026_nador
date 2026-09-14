@@ -15,3 +15,8 @@
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
 // TODO: écris ta solution ici.
+let prenom ="john";
+let nom = "doe";
+console.log("Bonjour, je m'appelle John Doe." )
+
+

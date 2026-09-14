@@ -17,4 +17,13 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let PI = 3.14;
+let rayon = 5;
+let perimetre = 2 * PI * rayon;
+perimetre = perimetre.toFixed(2);
+console.log(perimetre); 
+
+
+
+
+

@@ -16,12 +16,14 @@
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette const carre = x => x * x;
 
-function carre(X){
-return x * x
+function carre(X) {
+    return X * X
 }
 
-    carre(a) + carre(b);
+function sommedescarre(a, b) {
+    return carre(a)+carre(b) 
+}
 
-console.log(sommeDesCarres(3, 4));
+console.log(sommedescarre(3, 4));
 
 

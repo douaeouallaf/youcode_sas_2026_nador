@@ -23,7 +23,8 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> les paramétre:(a,b) argument:(2,3)
+
 
 ---
 
@@ -35,7 +36,7 @@
 
 **Ma réponse :**
 
-> return=
+> return=return le résultat     console.log()=affichér le résultat
 
 ---
 
@@ -47,7 +48,7 @@
 
 **Ma réponse :**
 
-> 
+> sans return ,la foncyion renvoie undefined au lieu de la valeur attendue
 
 ---
 
@@ -59,7 +60,7 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> une variable déclaréé avec let dans une fonction est accessible uniquement à l'intérieur de cette fonction
 
 ---
 
@@ -71,8 +72,7 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
-
+> une fonction fléchée utilise=>et permet d'écrire une fonction de manière plus concise qu'une fonction classique
 ---
 
 ### Question 06
@@ -83,7 +83,7 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> on peut omettre les accolades {}et le mot-clé return lorsqu'une fonction fléchée contient une seule expression à retourner 
 
 ---
 
@@ -95,7 +95,7 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> le hoisting permet d'utiliser une fonction classique avant sa déclaration , contrairement à une fonction fléchée stokée dans une variable const , qui doit etre déclarée avant son utilisation 
 
 ---
 
@@ -107,7 +107,7 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> une fonction call back est une fonction passéee en argument à une autre fonction pour etre exécutée plus tard 
 
 ---
 
@@ -119,7 +119,7 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> oui 
 
 ---
 
@@ -131,7 +131,7 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> la récursivité est une fonction qui s'appelle elle-meme jusqu'à attendre une condition d'arrét
 
 
 ## ✅ Validation de la recherche

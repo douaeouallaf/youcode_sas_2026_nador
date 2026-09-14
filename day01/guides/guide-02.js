@@ -9,4 +9,7 @@
  */
 'use strict';
 
-// TODO: écris ta solution ici.
+let data = "123";
+console.log(typeof data); // string
+data = Number(data);
+console.log(typeof data); // number

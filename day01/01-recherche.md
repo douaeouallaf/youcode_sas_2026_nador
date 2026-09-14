@@ -23,7 +23,12 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> 'let'= change les valeur 
+'var'= meme ci let mais il est ancienne
+conste = ne change pas la valeur
+
+
+
 
 ---
 
@@ -35,7 +40,14 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> string
+null= absance de valeur comme X=null
+indefined= variable sans valeur définie comme X
+bolean=true or false
+symbol= valeur unique comme ("id")
+numbre= 23 ; 3.4
+bighnt=trés grand nombre  comme 12345678912345678n
+
 
 ---
 
@@ -47,7 +59,7 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> typeof null= "object" ca c'est une erreur historique mais le tout va travailler ca en js 
 
 ---
 
@@ -59,7 +71,8 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> '==':compare juste la valeur 
+'===' : compare la valeur et le type
 
 ---
 
@@ -71,7 +84,7 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> une erreur
 
 ---
 
@@ -83,7 +96,7 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> js utilise la coersion de  type (type coercion ):il transforme le nombre en chaine et fait une concaténation
 
 ---
 
@@ -95,9 +108,8 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> l'opérateur modulo% renvoie le reste d'une division,utilisé par exemple pour savoir si un nombre est pair ou impair
 
----
 
 ### Question 08
 
@@ -107,7 +119,7 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> && exige que les deux conditions soient vraies,tandis que       || exige qu'au moins une condition soit vraie 
 
 ---
 
@@ -119,7 +131,8 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> oui, on peut remplacer plusieurs if-else par switch lorsqu'on compare une méme variable à plusieurs valeurs précises; switch est alors plus clair et organisé
+
 
 ---
 
@@ -131,7 +144,8 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> une valeur falsy est une valeur considérée comme false dans une condition, par exemple:false,0 et "  ".
+
 
 
 ## ✅ Validation de la recherche
