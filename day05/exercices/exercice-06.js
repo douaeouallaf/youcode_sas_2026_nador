@@ -15,5 +15,5 @@
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
 let text = "Safi,Youssoufia,Nador,Casablanca"
-let array = text.split()
+let array = text.split(",")
 console.log(array)
