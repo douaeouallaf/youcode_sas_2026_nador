@@ -5,8 +5,7 @@
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Remplacez le mot "idiot" par "*" dans la phrase : "Ne sois pas idiot, réfléchis avant de parler.".
- *
+ * Remplacez le mot "idiot" par "*" dans la phrase : "Ne sois pas idiot, réfléchis avant de parler."
  * 📖 Consigne détaillée : ../03-exercices.md#exercice-09
  * ▶️ Commande : node day05/exercices/exercice-09.js
  */
@@ -14,4 +13,5 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let phrase = "Ne sois pas idiot"
+console.log(phrase.replace("idiot","*"))

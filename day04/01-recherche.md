@@ -51,9 +51,9 @@
 
 ---
 
-### Question 04
+### Question 04Que retourne la propriété `.length` d'un tableau vide `[]` ?
 
-> Que retourne la propriété `.length` d'un tableau vide `[]` ?
+> 
 
 - [ ] J'ai recherché et compris la notion.
 

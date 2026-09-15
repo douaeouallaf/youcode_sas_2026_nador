@@ -23,7 +23,7 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> string en js immuable   et touppercase() = ne modifie pas le string mais il transfére leslettre de minscule à majiscul
 
 ---
 
@@ -33,11 +33,9 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Ma répons
 
-> À compléter avec mes propres mots.
-
----
+---La méthode .substr() est dépréciée, utilisez plutôt .slice() qui est la plus recommandée
 
 ### Question 03
 
@@ -47,7 +45,7 @@
 
 **Ma réponse :**
 
-> À compléter avec mes propres mots.
+> 
 
 ---
 

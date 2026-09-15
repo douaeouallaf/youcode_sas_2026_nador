@@ -14,4 +14,11 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let mot = "Programmation"
+let premiersLettre=mot [0]
+let derniersLettre = mot[mot.length -1]
+console.log(premiersLettre)
+console.log(derniersLettre)
+
+
+
