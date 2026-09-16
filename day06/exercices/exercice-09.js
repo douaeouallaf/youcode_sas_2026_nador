@@ -14,4 +14,19 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let candidats = [
+    { nom: "Ahmed", score: 15 },
+    { nom: "Sara", score: 18 },
+    { nom: "Youssef", score: 8 },
+    { nom: "Imane", score: 10 }
+];
+
+function candidatsAdmis() {
+    let resultat = candidats.filter(function(candidat) {
+        return candidat.score >= 10;
+    });
+
+    return resultat;
+}
+
+console.log(candidatsAdmis())

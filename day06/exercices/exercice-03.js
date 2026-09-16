@@ -14,4 +14,12 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let objet = {
+  nom: 'douae',
+  age: 19,
+  estAdmin: true,
+  email: 'ouallafdouae@gmaile.com'
+}
+delete objet. estAdmin
+console.log(objet)
+

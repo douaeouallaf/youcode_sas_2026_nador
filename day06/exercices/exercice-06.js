@@ -5,7 +5,7 @@
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Utilisez Object.values() pour récupérer un tableau contenant toutes les valeurs de l'objet, et affichez-le.
+ * 
  *
  * 📖 Consigne détaillée : ../03-exercices.md#exercice-06
  * ▶️ Commande : node day06/exercices/exercice-06.js
@@ -14,4 +14,12 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+ let utilisateur = {
+    nom: "Ahmed",
+    age: 20,
+    ville: "Nador"
+};
+
+let valeurs = Object.values(utilisateur);
+
+console.log(valeurs);

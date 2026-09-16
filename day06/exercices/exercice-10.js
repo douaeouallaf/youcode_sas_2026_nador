@@ -14,4 +14,23 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let texte = "abracadabra";
+
+function compterLettres(texte) {
+    let resultat = {};
+
+    for (let i = 0; i < texte.length; i++) {
+        let lettre = texte[i];
+
+        if (resultat[lettre]) {
+            resultat[lettre]++;
+        } else {
+            resultat[lettre] = 1;
+        }
+    }
+
+    return resultat;
+}
+
+console.log(compterLettres(texte));
+
